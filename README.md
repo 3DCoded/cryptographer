@@ -4,6 +4,5 @@ Setup:
 Usage:  
     Help: 
     ```
-    import cryptographer
-    help(cryptographer)
+    import cryptographer; help(cryptographer)
     ```
